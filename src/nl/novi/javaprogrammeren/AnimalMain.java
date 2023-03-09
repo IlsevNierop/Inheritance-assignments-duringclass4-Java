@@ -5,8 +5,7 @@ public class AnimalMain {
     Het is traditie om overerving uit te leggen met behulp van dieren. Hier ontkomen jullie dus ook niet aan.
 
     Opdracht
-    Bekijk de beschrijving van onderstaande dieren. Bedenk wat je in de superklasse kan zetten. De subklassen hoef
-    je nog niet te maken.
+    Bekijk de beschrijving van onderstaande dieren. Bedenk wat je in de superklasse kan zetten. De subklassen moet je ook gaan maken.
 
     Van een Leeuw slaan we de naam, naam van het hok, geslacht, weekdag dat die het laatst gevoed is en land van
     herkomst op en de hoeveelheid kinderen.
@@ -31,6 +30,9 @@ public class AnimalMain {
     Alle dieren eten. Maak een methode die een String ontvangt en print dan uit wat het dier eet.
 
     Alles staat hier in het Nederlands beschreven. Schrijf je klassen-, variabele en methodenamen in het Engels.
+
+
+    Bonus: zoo klasse - alleen dierentuin dieren aan toevoegen
 
      */
 
