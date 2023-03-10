@@ -8,7 +8,7 @@ public abstract class ZooAnimals extends Animal {
 
     private String countryOrigin;
 
-    private ZooAnimals (String nameKennel, String weekdayLastFed, String countryOrigin, String name, Character sex) {
+    public ZooAnimals (String nameKennel, String weekdayLastFed, String countryOrigin, String name, Character sex) {
         super(name, sex);
         this.nameKennel = nameKennel;
         this.weekdayLastFed = weekdayLastFed;
